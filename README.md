@@ -1,6 +1,8 @@
 # SD2SP2-POR-2.0-UPGRADE-PCB
 Replacement 2.0 Upgrade for the lower pcb on the SD2SP2 POR MicroSD Adapter variants commonly found on amazon and aliexpress for the Gamecube Serial port 2
 
+as long as your SD2SP2 Por version looks like the pinout in the one below this upgrade pcb will work for you as the pins must match.
+
 
 
 ![20241026_201051-min](https://github.com/user-attachments/assets/911641f1-ff9e-43b8-b077-6256c0f89d9e)
