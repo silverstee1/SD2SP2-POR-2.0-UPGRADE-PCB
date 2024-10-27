@@ -1,11 +1,17 @@
 # SD2SP2-POR-2.0-UPGRADE-PCB
 Replacement 2.0 Upgrade for the lower pcb on the SD2SP2 POR MicroSD Adapter variants commonly found on amazon and aliexpress for the Gamecube Serial port 2
 
-The PCB must be ordered in 1.2mm thickness. Surface finish must be ENIG at minimum.
+
+
+![20241026_201051-min](https://github.com/user-attachments/assets/911641f1-ff9e-43b8-b077-6256c0f89d9e)
+
+![20241026_200804-min](https://github.com/user-attachments/assets/4026ba16-3eb8-4fc8-9201-dfb39221385d)
 
 
 SD2SP2 POR 2.0 BOM
 =====================================
+
+The PCB must be ordered in 1.2mm thickness. Surface finish must be ENIG at minimum.
 
 **Inside PCB**
 
